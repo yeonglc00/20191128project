@@ -1,0 +1,47 @@
+.p{
+	-fx-background-image: url(/resources/asd.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center; 
+}
+.icon {
+	-fx-background-image: url(/resources/icon.png);
+	
+	
+}
+.buttonWithImage {          
+    -fx-graphic: url("icon2.png");
+}
+.f{
+	-fx-background-image: url(/resources/t.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center; 
+}
+.hi{
+	-fx-background-image: url(/resources/icon.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center; 
+}
+.hi2{
+	-fx-background-image: url(/resources/icon.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center; 
+}
+.ha{
+	-fx-background-image: url(/resources/ha.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center; 
+}
+.pp{
+	-fx-background-image: url(/resources/pp.png) ;
+	-fx-background-size: cover ;
+	-fx-background-position: center center;
+}
+
+#label {
+	-fx-background-color:  #4386FF;
+	-fx-text-fill: #fff;
+}
+
+#label .content {
+	-fx-background-color:  #4386FF;
+}
